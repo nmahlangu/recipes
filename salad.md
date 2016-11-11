@@ -1,6 +1,5 @@
 # Salad
-
-___
+---
 
 ### Ingredients
 * Salt
