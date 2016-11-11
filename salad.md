@@ -1,6 +1,5 @@
 # Salad
 ---
-
 ### Ingredients
 * Salt
 * Pepper
