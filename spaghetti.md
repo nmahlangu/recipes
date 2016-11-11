@@ -1,5 +1,4 @@
 # Spaghetti
----
 
 ### Ingredients
 * 1/2 an onion
