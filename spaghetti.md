@@ -26,7 +26,7 @@
 
 ## Noodles
 * Fill a pot with water, add a bit of salt, and heat it until it's boiling
-* Add spaghetti noodles and let them cook for 8-10 minutes, make sure to gently stir them every few minutes
+* Add spaghetti noodles and let them cook for 8-10 minutes, making sure to gently stir them every few minutes
 * Once done, pour out the water
 
 ## Finishing Touches
