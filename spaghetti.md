@@ -1,6 +1,6 @@
 # Spaghetti
 
-### Ingredients
+## Ingredients
 * 1/2 an onion
 * Olive Oil
 * Ground Beef
@@ -13,7 +13,7 @@
 * Cheese
 
 
-### Sauce
+## Sauce
 * Cut 1/2 an onion into small pieces
 * Put the onion pieces into a pan with a little olive oil and cook them until they're light brown
 * Add ground beef and stir until the meat looks cooked
@@ -24,11 +24,11 @@
 * Add basil and oregano
 * Add grated cheese and stir, or wait until the food to sprinkle it over dish
 
-### Noodles
+## Noodles
 * Fill a pot with water, add a bit of salt, and heat it until it's boiling
 * Add spaghetti noodles and let them cook for 8-10 minutes, make sure to gently stir them every few minutes
 * Once done, pour out the water
 
-### Finishing Touches
+## Finishing Touches
 * Put some noodles into a bowl
 * Cover with sauce
