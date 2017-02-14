@@ -1,6 +1,8 @@
 # Recipes
 A collection of recipes I like from various sources. If you'd like to add one to this list, submit a pull request!
 
+
+* [Caramel Chicken](https://github.com/nmahlangu/recipes/blob/master/caramel_chicken.md)
 * [Quinoa](https://github.com/nmahlangu/recipes/blob/master/quinoa.md)
 * [Salad](https://github.com/nmahlangu/recipes/blob/master/salad.md)
 * [Spaghetti](https://github.com/nmahlangu/recipes/blob/master/spaghetti.md)
