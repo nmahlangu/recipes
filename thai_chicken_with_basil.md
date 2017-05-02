@@ -23,7 +23,7 @@
 
 ## Finishing Touches
 * Service with white rice
-* Add some soy sauce 
+* Add some soy sauce
 
 
 
