@@ -21,6 +21,6 @@
 * Add the marinade and cook 30 seconds longer.
 * Remove from the heat and stir in 1 cup of the basil. Serve topped with the remaining 1/2 cup basil.
 
-# Finishing Touches
+## Finishing Touches
 * Service with white rice
 * Add some soy sauce 
