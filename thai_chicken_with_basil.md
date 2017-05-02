@@ -24,3 +24,8 @@
 ## Finishing Touches
 * Service with white rice
 * Add some soy sauce 
+
+
+
+
+**Source**: http://www.foodandwine.com/recipes/thai-chicken-basil
