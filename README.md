@@ -9,4 +9,4 @@ A collection of recipes I like from various sources. If you'd like to add one to
 * [Spaghetti](https://github.com/nmahlangu/recipes/blob/master/spaghetti.md)
 * [Smoothies](https://github.com/nmahlangu/recipes/blob/master/smoothies.md)
 * [Thai Chicken With Basil](https://github.com/nmahlangu/recipes/blob/master/thai_chicken_with_basil.md)
-* [Wiener Schnitzel](https://github.com/nmahlangu/recipes/blob/master/wiener-schnitzel.md)
+* [Wiener Schnitzel](https://github.com/nmahlangu/recipes/blob/master/wiener_schnitzel.md)
