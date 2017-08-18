@@ -32,9 +32,9 @@
 
 
 ## Simple Green Smoothie
-* 2 cups spinach
-* 2 cups almond milk
-* 3 cups ripe fruit
+* 1 cup spinach
+* 1 cup almond milk
+* 1 1/2 cup ripe fruit
 	* banana
 	* mango
 	* berries
@@ -48,5 +48,5 @@
 	* grapes
 	* melon
 	* apricots
-* Yields 4 cups (32 oz)
+* Yields 2 cups (16 oz)
 * Source: https://www.simplegreensmoothies.com/the-rawkstar-perfect-blend-smoothie-formula
