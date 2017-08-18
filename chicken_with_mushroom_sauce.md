@@ -19,5 +19,5 @@
 
 
 ## Info
-Yield: 4 servings
-Source: https://www.tasteofhome.com/recipes/contest-winning-chicken-with-mushroom-sauce
+* Yield: 4 servings
+* Source: https://www.tasteofhome.com/recipes/contest-winning-chicken-with-mushroom-sauce
