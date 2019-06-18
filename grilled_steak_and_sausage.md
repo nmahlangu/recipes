@@ -21,7 +21,7 @@
 - Melt butter and add garlic salt. Let cool to room temperature
 - Place steaks on aluminum foil (double wrapped) and fold each side up. You want to make sure that when you start basting with butter, none of it is able to leave the aluminum foil
 - Place steaks and alumimum foil on grill and continually baste with the room temperature melted garlic salt butter
-- To achieve a steak that is medium done, a good rule of thumb is for each 1 inch thick you want it to spend about 10 minutes on the grill. Assuming the steak is 1-inch think, cook for 5 minutes on each side, continually basting the steak with the butter so it never gets dry
+- To achieve a steak that is medium done, a good rule of thumb is for each 1 inch thick you want it to spend about 10 minutes on the grill. Assuming the steak is 1-inch thick, cook for 5 minutes on each side, continually basting the steak with the butter so it never gets dry
 - Take steak off the grill. Heat up a pan with olive oil on high heat, then sear each side of the steak for 1-2 minutes
 - Let sit for 10 minutes, then serve
 
