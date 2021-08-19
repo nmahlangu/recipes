@@ -4,6 +4,7 @@
 * 1/2 an onion
 * Olive Oil
 * Ground Beef
+* Mushrooms
 * Salt
 * Pepper
 * Garlic
