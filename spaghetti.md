@@ -16,7 +16,8 @@
 
 ## Sauce
 * Cut 1/2 an onion into small pieces
-* Put the onion pieces into a pan with a little olive oil and cook them until they're light brown
+* Put mushrooms into a pan with a little olive oil and cook for 4 minutes
+* Add onion pieces cook them until they're light brown
 * Add ground beef and stir until the meat looks cooked
 * Sprinkle salt and pepper over the meat
 * Cut garlic into small pieces and mix that into the meat
